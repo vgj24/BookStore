@@ -1,0 +1,13 @@
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\bin\Debug\netcoreapp3.1\RepoLyer.deps.json
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\bin\Debug\netcoreapp3.1\RepoLyer.dll
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\bin\Debug\netcoreapp3.1\RepoLyer.pdb
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.csproj.CopyComplete
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.dll
+C:\Users\vgj24\source\repos\BookStore\RepoLyer\obj\Debug\netcoreapp3.1\RepoLyer.pdb

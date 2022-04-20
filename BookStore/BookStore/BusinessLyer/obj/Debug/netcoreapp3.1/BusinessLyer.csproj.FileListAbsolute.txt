@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\BusinessLyer.deps.json
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\BusinessLyer.dll
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\BusinessLyer.pdb
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\RepoLyer.dll
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\RepoLyer.pdb
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.csproj.CopyComplete
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.dll
+C:\Users\vgj24\source\repos\BookStore\BusinessLyer\obj\Debug\netcoreapp3.1\BusinessLyer.pdb
